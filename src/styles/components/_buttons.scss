@@ -7,6 +7,13 @@
     text-decoration: none;
     text-align: center;
     white-space: nowrap;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+
+    &:hover {
+        background-color: lighten($color: variables.$backgroundButton, $amount: 15);
+        transform: scale(1.1);
+    }
 
     &--primary {
         color: variables.$textColor;

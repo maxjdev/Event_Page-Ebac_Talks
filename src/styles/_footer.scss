@@ -1,0 +1,26 @@
+@use 'variables';
+
+.footer {
+    background-image: linear-gradient(variables.$linearGradient3, #858484);
+    width: 100%;
+    padding: 4px;
+    display: flex;
+
+    &__links {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+
+        &__li {
+            transition: transform 0.3s ease;
+
+            &:hover {
+                transform: scale(1.2);
+            }
+        }
+
+        .footer__socials_logo {
+            margin-bottom: 3vh;
+        }
+    }
+}
