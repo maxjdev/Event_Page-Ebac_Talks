@@ -1,48 +1,51 @@
 <div align="center">
-  <img src="https://i.postimg.cc/3xbR5F7H/rounded-in-photoretrica.png" width="150">
   
-  # Desenvolvedor Full Stack Java: Front-End - EBAC   
+  <h1>Project: Event Page Ebac Talks <a href="https://landing-page-sinopcine.vercel.app/">Deploy</a></h1>
 
-  ## Projeto: Página de Evento <a href="https://event-page-pi.vercel.app/">Visite o site</a>
+  ### Techs Used
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  
 
+  ## Image
   <img src="https://i.postimg.cc/G2p7105W/screencapture-event-page-pi-vercel-app-2023-12-11-11-39-37.png">
 </div>
 
-## Descrição do Projeto
+## Project description
 
-Bem-vindo ao EBAC Talks, um evento fictício que reúne entusiastas e profissionais de desenvolvimento Front-End, Back-End, Data Science e UI UX. Confira os tópicos em destaque, animações CSS e Contador regressivo com JS !
+Welcome to EBAC Talks, a fictional event that brings together Front-End, Back-End, Data Science and UI UX development enthusiasts and professionals. Check out the featured topics, CSS animations and Countdown timers with JS!
 
-### Recursos Destacados
+### Highlighted Features
 
-- **Contador Regressivo:**
-  - Acompanhe o tempo restante para o início do EBAC Talks com um contador regressivo.
+- **Regressive counter:**
+  - Track the time remaining until the start of EBAC Talks with a countdown timer.
 
-- **Botão para Garantir o Ingresso:**
-  - Clique no botão "Garantir Ingresso" para reservar seu lugar no evento.
+- **Button to Secure Ticket:**
+  - Click the "Secure Ticket" button to reserve your place at the event.
 
-- **Animações CSS:**
-  - Explore animações dinâmicas que destacam os tópicos principais do evento: Front-End, Back-End, Dados e UI/UX.
+- **CSS animations:**
+  - Explore dynamic animations that highlight the main topics of the event: Front-End, Back-End, Data and UI/UX.
 
-### Tecnologias Utilizadas
+### Technologies Used
 
 - **SCSS:**
-  - Desenvolvimento de estilos utilizando SCSS para uma organização e manutenção mais eficientes.
+  - Development of styles using SCSS for more efficient organization and maintenance.
 
-- **Parcel:**
-  - Empacotamento de módulos e construção de projetos web de forma simplificada com Parcel.
+- **Package:**
+  - Packaging modules and building web projects in a simplified way with Parcel.
 
-## Como Utilizar
+## How to use
 
-1. **Acesse o site:**
-   - Visite [EBAC Talks Event Page](https://event-page-pi.vercel.app/)
+1. **Access the website:**
+   - Visit [EBAC Talks event page](https://event-page-pi.vercel.app/)
 
-2. **Explore os Recursos:**
-   - Confira o contador regressivo, conheça os tópicos do evento e garanta seu ingresso.
+2. **Explore features:**
+   - Check the countdown timer, learn about the event topics and guarantee your ticket.
 
-## Feedback e Contribuições
+## Feedback and Contributions
 
-Se tiver algum feedback, sugestão ou se deseja contribuir para melhorar a experiência do EBAC Talks Event Page, sinta-se à vontade para abrir uma issue ou entrar em contato.
-
-<h2 align="center">
-  <i>Agradeço por explorar a Página de Evento EBAC Talks !</i>
-</h2>
+If you have any feedback, suggestions or would like to contribute to improving the EBAC Talks event page experience, please feel free to open an issue or get in touch.
